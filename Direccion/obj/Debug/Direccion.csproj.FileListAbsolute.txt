@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\eventos\testweb\Direccion\bin\Debug\Direccion.dll
+C:\Users\Admin\Desktop\eventos\testweb\Direccion\bin\Debug\Direccion.pdb
+C:\Users\Admin\Desktop\eventos\testweb\Direccion\obj\Debug\Direccion.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\eventos\testweb\Direccion\obj\Debug\Direccion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\eventos\testweb\Direccion\obj\Debug\Direccion.dll
+C:\Users\Admin\Desktop\eventos\testweb\Direccion\obj\Debug\Direccion.pdb
