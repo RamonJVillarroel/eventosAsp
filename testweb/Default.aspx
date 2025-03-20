@@ -22,12 +22,13 @@
     </div>
     <div class="row">
         <div class="col">
-            <asp:GridView ID="dgvDireccion" OnLoad="dgvDireccion_Load" OnSelectedIndexChanged="dgvDireccion_SelectedIndexChanged" DataKeyNames="Id" CssClass="m-3 col-4 table-success" runat="server" AutoGenerateColumns="false">
+            <asp:GridView ID="dgvDireccion" OnLoad="dgvDireccion_Load" OnRowDeleting="dgvDireccion_RowDeleting"  OnSelectedIndexChanged="dgvDireccion_SelectedIndexChanged" DataKeyNames="Id" CssClass="m-3 col-4 table-success" runat="server" AutoGenerateColumns="false">
                 <Columns>
                     <asp:BoundField HeaderText="Id" DataField="Id" />
                     <asp:BoundField HeaderText="Altura" DataField="Altura" />
                     <asp:BoundField HeaderText="Calle" DataField="Calle" />
                     <asp:CommandField ShowHeader="true" ShowSelectButton="true" HeaderText="Editar" SelectText="Editar" />
+                    <asp:CommandField ShowDeleteButton="true" SelectText="Eliminar" ShowHeader="true" HeaderText="Editar" />
                 </Columns>
             </asp:GridView>
 

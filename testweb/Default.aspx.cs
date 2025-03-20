@@ -78,5 +78,21 @@ namespace testweb
             var id = dgvDireccion.SelectedDataKey.Value.ToString();
             Response.Redirect("Default.aspx?id=" + id);
         }
+
+        protected void dgvDireccion_RowDeleting(object sender, GridViewDeleteEventArgs e)
+        {
+            List<Direccion.Direccion> temp = (List<Direccion.Direccion>)Session["listaDireccion"];
+            
+            var id = e.Keys["Id"].ToString();
+            int buscar = int.Parse(id);
+            int num= temp.FindIndex(x => x.Id == buscar);
+            if (num>=0)
+            {
+                temp.RemoveAt(num);
+            }
+            Session["listaDireccion"] = temp;
+            Response.Redirect("Default.aspx");
+
+        }
     }
 }

@@ -4,3 +4,9 @@ C:\Users\Admin\Desktop\eventos\testweb\Direccion\obj\Debug\Direccion.csproj.Asse
 C:\Users\Admin\Desktop\eventos\testweb\Direccion\obj\Debug\Direccion.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\eventos\testweb\Direccion\obj\Debug\Direccion.dll
 C:\Users\Admin\Desktop\eventos\testweb\Direccion\obj\Debug\Direccion.pdb
+C:\Users\USUARIO\Desktop\web-asp\eventos\eventosAsp\Direccion\bin\Debug\Direccion.dll
+C:\Users\USUARIO\Desktop\web-asp\eventos\eventosAsp\Direccion\bin\Debug\Direccion.pdb
+C:\Users\USUARIO\Desktop\web-asp\eventos\eventosAsp\Direccion\obj\Debug\Direccion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\web-asp\eventos\eventosAsp\Direccion\obj\Debug\Direccion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\web-asp\eventos\eventosAsp\Direccion\obj\Debug\Direccion.dll
+C:\Users\USUARIO\Desktop\web-asp\eventos\eventosAsp\Direccion\obj\Debug\Direccion.pdb
